@@ -1,6 +1,4 @@
-Here's a sample README file for your website:
 
----
 
 # The Techyera Website
 
